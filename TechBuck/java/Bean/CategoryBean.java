@@ -2,9 +2,6 @@ package com.example.dev.techbuck.Bean;
 
 import java.io.Serializable;
 
-/**
- * Created by DEV on 10/02/2019.
- */
 
 public class CategoryBean implements Serializable {
 
