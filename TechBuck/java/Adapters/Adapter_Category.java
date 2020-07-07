@@ -16,10 +16,6 @@ import com.example.dev.techbuck.R;
 
 import java.util.List;
 
-/**
- * Created by DEV on 05/02/2019.
- */
-
 public class Adapter_Category extends RecyclerView.Adapter<Adapter_Category.Holder> {
 
     Context context;
